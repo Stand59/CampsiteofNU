@@ -21,7 +21,7 @@ header h2 {
   color: white; }
 
 .row-content {
-  paddig: 50px 0;
+  padding: 50px 0;
   border-bottom: 1px ridge;
   min-height: 200px; }
 
@@ -43,3 +43,11 @@ a, a:hover {
   right: 0;
   bottom: 0;
   z-index: 100; }
+
+#reserveModal .modal-header {
+  background-color: #17A2B8;
+  color: white; }
+
+#loginModal .modal-header {
+  background-color: #901CAD;
+  color: white; }
